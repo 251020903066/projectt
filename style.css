@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+header{
+    background-color: violet;
+}
+nav {
+    background-color: gray;
+}
+main {
+    background-color: yellowgreen;
+    font-size: 19px;
+}
+footer{
+    background-color: lightblue;
+}
+li{
+    display: inline-block;
+    width: 160px;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    line-height: 1.6;
+}
